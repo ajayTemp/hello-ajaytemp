@@ -1,0 +1,12 @@
+{
+  "name": "hello-ajaytemp",
+  "version": "1.0.0",
+  "description": "simple package to print hello from ajayTemp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "github":"https://github.com/ajayTemp/hello-ajaytemp.git",
+  "author": "ajayTemp",
+  "license": "ISC"
+}
